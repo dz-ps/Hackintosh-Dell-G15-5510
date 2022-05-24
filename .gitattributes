@@ -1,0 +1,3 @@
+* linguist-vendored
+*.asl linguist-vendored=false
+*.xml linguist-detectable=true
